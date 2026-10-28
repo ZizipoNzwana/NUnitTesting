@@ -1,0 +1,4 @@
+<Solution>
+  <Folder Name="/TestingWithNUnit.Tests/" />
+  <Project Path="TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj" />
+</Solution>

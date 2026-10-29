@@ -21,4 +21,12 @@ public class EqualityAssertions
         string actual = "Hello";
         Assert.That(actual, Is.EqualTo(expected),"What does this mean");
     }
+
+    [Test]
+    public void AreEqualNumbers()
+    {
+        int expected = 1 + 2;
+        int actual = 3;
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }

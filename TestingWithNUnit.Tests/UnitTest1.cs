@@ -1,6 +1,6 @@
-﻿using System;
-using System.Net.NetworkInformation;
-using NUnit.Framework;
+﻿// using System;
+// using System.Net.NetworkInformation;
+// using NUnit.Framework;
 namespace TestingWithNUnit.Tests;
 
 public class MyFirstUNitTests 

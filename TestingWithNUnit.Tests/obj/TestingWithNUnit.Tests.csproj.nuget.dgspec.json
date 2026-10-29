@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zizipo/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj": {}
+    "/home/zizipo/Github/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj": {}
   },
   "projects": {
-    "/home/zizipo/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj": {
+    "/home/zizipo/Github/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zizipo/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj",
+        "projectUniqueName": "/home/zizipo/Github/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj",
         "projectName": "TestingWithNUnit.Tests",
-        "projectPath": "/home/zizipo/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj",
+        "projectPath": "/home/zizipo/Github/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/TestingWithNUnit.Tests.csproj",
         "packagesPath": "/home/zizipo/.nuget/packages/",
-        "outputPath": "/home/zizipo/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/obj/",
+        "outputPath": "/home/zizipo/Github/LearningNUnitTesting/NUnitTesting/TestingWithNUnit.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zizipo/.nuget/NuGet/NuGet.Config"

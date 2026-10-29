@@ -29,4 +29,14 @@ public class EqualityAssertions
         int actual = 3;
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    public void AreEqualArrays()
+    {
+        var expected = new int[]{1, 2, 3};
+        var actual = new int[]{1, 3, 2};
+        Array.Sort(actual);
+        Assert.That(actual, Is.EqualTo(expected));
+
+    }
 }

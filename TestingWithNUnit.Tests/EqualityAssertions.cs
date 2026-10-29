@@ -39,4 +39,13 @@ public class EqualityAssertions
         Assert.That(actual, Is.EqualTo(expected));
 
     }
+
+    [Test]
+    public void AreObjectsEqual()
+    {
+        var obj1 = new object();
+        var obj2 = new object();
+ 
+        Assert.That(obj1, Is.Not.EqualTo(obj2));
+    }
 }
